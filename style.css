@@ -1,0 +1,100 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+ .header-section{
+   background-color:  #F0FFF0;
+   padding-top: 20px;
+   padding-bottom: 63px;
+ }
+ .nav img {
+    width: 198.07px;
+    height: 59px;
+}
+nav .btn-success {
+    padding: 9px 28px 12px 28px;
+    width: 120px;
+    height: 45px;
+    top: 25px;
+    background: #21B573;
+    border-radius: 33px;
+    font-size: 16px;
+    margin-left: 40px;
+}
+ .navbar navbar-expand-lg navbar-light{
+    background-color:  #F0FFF0;
+ }
+
+ .header-content {
+    margin-top: 100px;
+    padding: 10px;
+}
+
+.header-content img {
+    height: 280px;
+}
+
+.header-content h1 {
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.header-content .header-details {
+    font-size: 16px;
+    line-height: 36px;
+    color: #6C6B6B;
+}
+
+.header-content-btn {
+    border-radius: 33px;
+    padding: 12px 36px;
+    font-size: 16px;
+    background-color: #21B573;
+}
+
+.student img{
+    display: block;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto; 
+    width: 80px;
+    height: 83px;
+    left: 535px;
+    top: 670px;
+}
+.card{
+    border: none;
+    background-color: #F0FFF0;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+ 
+.student-section{
+     
+    padding-top: 80px;
+    padding-bottom: 63px;
+  }
+  .card1{
+      padding: 30px;
+  }
+  .about-school{
+    
+    text-align: center;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    color: #413960;
+  }
+  .about-school1{
+  
+    text-align: center;
+    font-size: 16px;
+    line-height: 24px;
+    color: #585859;
+    }
+ 
