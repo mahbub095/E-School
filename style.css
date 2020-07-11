@@ -8,7 +8,7 @@ body {
    padding-top: 20px;
    padding-bottom: 63px;
  }
- .nav img {
+ nav img {
     width: 198.07px;
     height: 59px;
 }
@@ -97,4 +97,93 @@ nav .btn-success {
     line-height: 24px;
     color: #585859;
     }
- 
+.courses{
+       
+    padding-top: 20px;
+    padding-bottom: 63px;
+    
+}
+.courses .btn-success {
+    padding: 8px 28px;
+    margin-bottom: 36px;
+}
+
+.courses h2 {
+    text-align: center;
+    font-weight: 700;
+    margin: 60px 0;
+}
+
+.courses .card-body a {
+    color: #000;
+    text-decoration: none;
+}
+
+.card {
+    margin-bottom: 50px;
+    padding: 10px 10px;
+    border: none;
+    border-radius: 18px;
+    
+}
+
+.courses .icon {
+    height: 20px;
+    margin-right: 5px;
+}
+
+.courses .peaple-icon {
+    margin-left: 30px;
+}
+.testimonial h2 {
+    text-align: center;
+    margin: 70px 0 30px 0;
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.testimonial-content {
+    padding: 0 12%;
+    margin-bottom: 70px;
+}
+
+.testimonial-content img {
+    height: 120px;
+    margin-right: 30px;
+}
+
+
+footer {
+    background-color: #282531;
+    padding: 50px 0 20px 0;
+}
+
+footer a {
+    color: #fff;
+    font-weight: 200;
+    font-size: 14px;
+}
+
+footer a:hover {
+    color: #fff;
+    text-decoration: none;
+}
+
+.footer-item-heading {
+    color: #fff;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.footer-quets {
+    color: #fff;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+footer .copy-right {
+    color: #fff;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 14px;
+}
